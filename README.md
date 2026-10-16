@@ -1,8 +1,9 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/df98db20-65d7-495e-bb20-461557771fd8" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a260e5e7-5f0a-45e7-8fbc-71c5276370e1" />
 
 
 
-## AWS | BTCPAY Platform
+
+## AWS | Azimutt is a full-stack database exploration tool
 BTCPay Server creates invoices, presents checkout to customers, and records payments sent directly to wallets controlled by the merchant. It does not hold funds as a payment intermediary.
 
 
